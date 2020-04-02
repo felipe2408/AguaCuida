@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AguaCuida</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Agua</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="cuida_al_planeta">Cuida al planeta</string>
+    <string name="datos">datos</string>
+    <string name="enviar">Enviar</string>
+    <string name="_06_40_am">06:40 AM</string>
+    <string name="humidity">Humidity</string>
+</resources>
